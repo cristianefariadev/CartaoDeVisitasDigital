@@ -8,7 +8,7 @@ Outra vantagem, é a divulgação de links para páginas de ofertas ou até mesm
 
 ## Sobre
 
-Este template foi desenvolvido utilizando apenas HTLM5 E CSS3 e pode ser reutilizado para qualquer tipo de negócio ou marca pessoal.
+Este template foi desenvolvido utilizando apenas HTML5 E CSS3 e pode ser reutilizado para qualquer tipo de negócio ou marca pessoal.
 
 **[Ver ao vivo](http://cristianefaria.com/links)**
 
@@ -23,4 +23,4 @@ Demonstração :point_down:
 
 ## Copyright and License
 
-Copyright 2019 Cristiane Faria. Code released under the [MIT](https://github.com/devcristiane/Cartao-virtual/blob/master/LICENSE) license.
+Copyright 2019 Cristiane Faria. Code released under the [MIT](https://github.com/devcristiane/CartaoDeVisitasDigital/blob/master/LICENSE) license.
